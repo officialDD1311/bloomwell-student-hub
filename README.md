@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+=======
+# bloomwell-student-hub
+BloomWell Student Hub A unified student platform integrating campus tools, mental well-being features, and social good utilities. Built with React, TypeScript, Tailwind CSS, and Supabase for authentication and backend.
+>>>>>>> ba86e053366d99ee7ff774c6cae84b90a1f13691
