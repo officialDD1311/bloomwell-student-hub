@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+[<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -76,3 +76,43 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-trick
 # bloomwell-student-hub
 BloomWell Student Hub A unified student platform integrating campus tools, mental well-being features, and social good utilities. Built with React, TypeScript, Tailwind CSS, and Supabase for authentication and backend.
 >>>>>>> ba86e053366d99ee7ff774c6cae84b90a1f13691
+](http://localhost:8080/settings)
+>>>>>>>
+>>>>>>> # bloomwell-student-hub
+
+**BloomWell Student Hub** is a unified student platform designed to streamline campus life by integrating essential tools, mental well-being features, and social good utilities — all in one place.
+
+## 🌟 Features
+
+- 📅 **Campus Tools** — Manage class schedules, assignments, events, and notifications.
+- 🧠 **Well-being Features** — Access guided journaling, mood tracking, and mindfulness prompts.
+- 🌱 **Social Good Utilities** — Discover campus volunteering and community engagement initiatives.
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, TypeScript, Tailwind CSS
+- **UI Components**: shadcn/ui
+- **Backend & Auth**: Supabase
+- **Build Tool**: Vite
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) and npm installed
+- Git installed
+
+### Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/officialDD1311/bloomwell-student-hub.git
+
+# 2. Navigate to the project directory
+cd bloomwell-student-hub
+
+# 3. Install dependencies
+npm install
+
+# 4. Run the development server
+npm run dev
